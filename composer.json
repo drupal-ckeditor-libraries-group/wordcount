@@ -1,0 +1,16 @@
+{
+  "name": "drupal-ckeditor-libraries-group/wordcount",
+  "description": "CKEditor 4 wordcount plugin",
+  "type": "drupal-library",
+  "keywords": ["ckeditor", "plugin", "wordcount"],
+  "homepage": "https://github.com/w8tcha/CKEditor-WordCount-Plugin",
+  "license": [
+    "GPL-2.0-or-later",
+    "LGPL-2.1-or-later",
+    "MPL-1.1"
+  ],
+  "support": {
+    "issues": "https://github.com/w8tcha/CKEditor-WordCount-Plugin/issues",
+    "source": "https://github.com/w8tcha/CKEditor-WordCount-Plugin/tree/master"
+  }
+}
